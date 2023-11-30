@@ -168,6 +168,7 @@ modules:
         commit: 835de48f0afbf16ee03f6576b091a5e019487df3
       - type: git
         url: https://github.com/openvanilla/fcitx5-mcbopomofo
+        tag: 2.5.2
         dest: fcitx5-mcbopomofo
       - type: file
         path: install_icons
